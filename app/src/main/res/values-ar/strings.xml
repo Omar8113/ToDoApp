@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">تطبيق المهام</string>
+    <string name="to_do_list">قائمة المهام</string>
+    <string name="list">القائمة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="hello_blank_fragment">مرحبًا</string>
+    <string name="task_title">عنوان المهمة</string>
+    <string name="task_details">تفاصيل المهمة</string>
+    <string name="add_new_task_title">إضافة مهمة جديدة</string>
+    <string name="add_new_task">إضافة مهمة جديدة</string>
+    <string name="add_task">إضافة المهمة</string>
+    <string name="add">إضافة</string>
+    <string name="please_enter_task_title">يرجى إدخال عنوان المهمة</string>
+    <string name="please_enter_task_description">يرجى إدخال تفاصيل المهمة</string>
+    <string name="select_time">اختر الوقت</string>
+    <string name="delete">حذف</string>
+    <string name="edit_task">تعديل المهمة</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="mode">الوضع</string>
+    <string name="light">فاتح</string>
+    <string name="dark">داكن</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="language">اللغة</string>
+</resources>
